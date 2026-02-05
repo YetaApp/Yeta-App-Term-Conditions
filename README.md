@@ -1,10 +1,10 @@
-# Terms and Conditions for Yeta Shopping App
+# Terms and Conditions for Yeta Shopping and Yeta Delivery App
 
 **Last Updated:** February 4, 2026
 
 **Effective Date:** February 4, 2026
 
-These Terms and Conditions ("Terms", "Terms and Conditions") govern your use of the Yeta Shopping mobile application (the "Application" or "App") operated by Yeta ("us", "we", or "our"). These Terms are governed by the laws of Kenya.
+These Terms and Conditions ("Terms", "Terms and Conditions") govern your use of the Yeta Shopping & Yeta Delivery mobile application (the "Application" or "App") operated by Yeta ("us", "we", or "our"). These Terms are governed by the laws of Kenya.
 
 Please read these Terms carefully before using our Application.
 
@@ -12,13 +12,13 @@ Please read these Terms carefully before using our Application.
 
 ## 1. Acceptance of Terms
 
-By accessing or using the Yeta Shopping Application, you agree to be bound by these Terms and Conditions and all applicable laws and regulations of Kenya. If you do not agree with any of these terms, you are prohibited from using or accessing this Application.
+By accessing or using the Yeta Shopping or Yeta Delivery Application, you agree to be bound by these Terms and Conditions and all applicable laws and regulations of Kenya. If you do not agree with any of these terms, you are prohibited from using or accessing this Application.
 
 ---
 
 ## 2. Definitions
 
-- **"Application"** or **"App"** refers to the Yeta Shopping mobile application
+- **"Application"** or **"App"** refers to the Yeta Shopping and Yeta Delivery mobile application
 - **"Service Provider"**, **"we"**, **"us"**, or **"our"** refers to Yeta
 - **"User"**, **"you"**, or **"your"** refers to the individual accessing or using the Application
 - **"Content"** refers to all information, data, text, software, graphics, photos, and other materials available through the Application
